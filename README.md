@@ -18,8 +18,8 @@ I'm inspired by projects that connect creative design ideas with programming and
 
 ## 💼 Experience
 
-- **AI Research Intern @ Brown University:** Developed tools for generative modeling and semantic segmentation.
-- **Google Research Intern:** Enhanced AI-assisted diagram generation with GenDiagram.
+- **AI for Computational Creativity Research Intern @ Brown University:** Developed tools for generative modeling and semantic segmentation.
+- **Google Research @ Brown University Exploring Computer Science Research Program Intern:** Enhanced AI-assisted diagram generation with GenDiagram.
 - **Teaching Assistant @ Bryn Mawr:** Tutored Data Structures & Algorithms, developed autograders.
 - **IT Technician:** Resolved 200+ IT tickets, created a knowledge base.
 
