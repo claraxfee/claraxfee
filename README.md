@@ -7,8 +7,10 @@
 ## 🚀 About Me
 
 I'm a Computer Science & Spanish major at Bryn Mawr College.
-My interests include computer graphics, ethics in AI and machine learning, graphic design, web development, UX design, CS higher ed, & digital art 
-I'm inspired by projects that connect creative design ideas with programming and tech
+My interests include computer graphics, ethics in AI and machine learning, graphic design, web development, UX design, CS higher ed, & digital art. 
+
+## 💻 Current roles
+TA for CIS3500 Software Engineering @ UPenn. TA for CS251 Data Structures & Algorithms at Bryn Mawr College. FODSI Research Fellow @ Bryn Mawr College. 
 
 ## 🛠️ Skills
 
